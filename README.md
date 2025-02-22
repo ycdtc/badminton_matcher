@@ -4,7 +4,7 @@
 <img width="596" alt="image" src="https://github.com/user-attachments/assets/ea3bde3f-db00-4567-a84b-c4da604cce5a" />
 
 
-1. 设置参赛选手，每个人的出场次数，一般10个人左右每个人都是出场8次
+1. 设置参赛选手，每个人的出场次数，一般8-14个人左右每个人都是会固定出场8次，且会有合理的上场和休息的时间。 默认是可以两个场同时进行提高效率，当然一个场慢慢打也是可以的
 
    <img width="369" alt="image" src="https://github.com/user-attachments/assets/02277f02-60fc-4ddb-bb44-51ac318d2f52" />
 
