@@ -12,7 +12,7 @@
 
    <img width="338" alt="image" src="https://github.com/user-attachments/assets/822ae8a7-b305-4932-b88e-0dc97d80a789" />
 
-3. 最终输出结果
+3. 调整后的最终输出结果：
 
    <img width="663" alt="image" src="https://github.com/user-attachments/assets/315a7f38-e8da-4a3c-a4e5-75d8e0db3ae3" />
 
